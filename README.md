@@ -1,8 +1,8 @@
-### Hi there 👋
+![Digital healthcare transformation: Generating impact frin NHS heakthcare data though collaboration with Epro's award-winning sofftware. Ask me how.](banner.png "Digital healthcare transformation with Epro.")
 
 <!--
 **stde-epro/stde-epro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
